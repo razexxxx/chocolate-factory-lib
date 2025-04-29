@@ -1,5 +1,5 @@
 {
-    "name": "chocolate/factory-lib",
+    "name": "6work/chocolate-factory-lib",
     "description": "Библиотека шоколадной фабрики",
     "type": "library",
     "autoload": {
@@ -10,6 +10,12 @@
     "require": {
         "php": ">=8.0"
     },
+    "authors": [
+        {
+            "name": "RAze",
+            "email": "bsziro123@gmail.com"
+        }
+    ],
     "require-dev": {
         "phpstan/phpstan": "^1.10",
         "squizlabs/php_codesniffer": "^3.7"
